@@ -6,7 +6,7 @@
 
 ## :page_with_curl: Description
 
-This project contains a sample C code that demonstrates the technique of process injection in the Windows environment. The code attempts to inject shellcode into the "explorer.exe" process. :warning: The provided shellcode is intended for a Unix system, so it won't actually work in this context.
+This project contains a sample C code that inject your shellcode into the windows "explorer.exe" process, it can be used to inject backdoors ... etc. :warning: The provided shellcode is intended for a Unix system, so it won't actually work in this context.
 
 ## :gear: Usage
 
